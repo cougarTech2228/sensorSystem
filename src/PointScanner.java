@@ -1,5 +1,5 @@
 
-public class main {
+public class PointScanner {
 
 	public static void main(String[] args) {
 	
